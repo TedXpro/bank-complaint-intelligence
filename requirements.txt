@@ -1,0 +1,15 @@
+numpy
+pandas
+matplotlib
+scikit-learn
+gensim
+sentence-transformers
+faiss-cpu
+rank-bm25
+transformers
+torch
+openai
+ragas==0.4.3
+langchain-community==0.4.1
+huggingface-hub<2
+jupyterlab

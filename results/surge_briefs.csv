@@ -1,0 +1,205 @@
+,week,topic name,main company,mode,question,filters,answer,scale,names main company,sources from alarm week,answered,first draft repeated the prompt,final brief repeats the prompt
+0,2025-01-13,Credit reporting violation,"Block, Inc.",v2 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Credit reporting violation","What customers report: complaints about failure to investigate or update credit reports and violations of the Fair Credit Reporting Act.  
+Who: Block, Inc., CAPITAL ONE FINANCIAL CORPORATION, JPMORGAN CHASE & CO.  
+When: 13 Jan 2025.
+Scale: 5,871 complaints match the filters; 97% of them share their text with another complaint, and the largest group was filed 5,626 times.","Scale: 5,871 complaints match the filters; 97% of them share their text with another complaint, and the largest group was filed 5,626 times.",True,1.0,True,False,False
+1,2025-01-13,Credit reporting violation,"Block, Inc.",v2 no filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Credit reporting violation","What customers report: customers are complaining about credit reporting violations, including inaccurate and unverifiable information being reported, failure to notify consumers of debt reporting, and failure to conduct proper investigations.  
+Who: Discover Bank, Synchro Financial, CitiBank, N.A., Equifax, Inc., Santander Holdings USA, Inc., Exeter Finance, LLC.  
+When: 26 Jul 2025, 09 May 2025, 04 Nov 2025, 02 Jun 2025, 27 Oct 2025, 04 Nov 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+2,2025-01-13,Credit reporting violation,"Block, Inc.",v1 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Credit reporting violation","What customers report: customers are complaining about issues related to the Fair Credit Reporting Act (FCRA), specifically about failures to investigate or update credit reports after disputes. [3]  
+Who: CAPITAL ONE FINANCIAL CORPORATION  
+When: 13 Jan 2025  
+Scale: filed 1 time",,False,1.0,True,False,False
+3,2025-01-13,Deposit hold issues,CAPITAL ONE FINANCIAL CORPORATION,v2 with filters,What were customers complaining about under the topic 'Deposit hold issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Deposit hold issues","What customers report: customers report issues with deposits being held or not released, including failure to deposit funds, account freezes, and delays in accessing funds. [1], [3], [5]  
+Who: CAPITAL ONE FINANCIAL CORPORATION, CITIBANK, N.A.  
+When: 15 Jan 2025, 16 Jan 2025, 17 Jan 2025
+Scale: 778 complaints match the filters; 41% of them share their text with another complaint, and the largest group was filed 312 times.","Scale: 778 complaints match the filters; 41% of them share their text with another complaint, and the largest group was filed 312 times.",True,1.0,True,False,False
+4,2025-01-13,Deposit hold issues,CAPITAL ONE FINANCIAL CORPORATION,v2 no filters,What were customers complaining about under the topic 'Deposit hold issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Deposit hold issues","What customers report: customers reported issues with deposit holds, including delayed clearance of checks and unexpected extended holds. [1], [3], [4]  
+Who: CAPITAL ONE FINANCIAL CORPORATION, KEYCORP  
+When: 30 Apr 2025, 18 Jan 2025, 02 Jul 2025
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.16666666666666666,True,False,False
+5,2025-01-13,Deposit hold issues,CAPITAL ONE FINANCIAL CORPORATION,v1 with filters,What were customers complaining about under the topic 'Deposit hold issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Deposit hold issues","What customers report: customers are reporting issues with deposits being held or accounts being closed without proper explanation, [1], [2], [3], [4], [5], [6].  
+Who: U.S. BANCORP, CITIBANK, N.A., CAPITAL ONE FINANCIAL CORPORATION.  
+When: 15 Jan 2025, 16 Jan 2025, 17 Jan 2025.  
+Scale: the main texts were filed 1 time each.",,True,1.0,True,False,False
+6,2025-01-13,Online access issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Online access issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Online access issues","What customers report: Customers reported issues with unauthorized access to their accounts through online services, including money transfer problems and fraud. [2][3][5][6]  
+Who: Bank of America, Cash App, CitiBank, Block, Inc.  
+When: 17 Jan 2025, 19 Jan 2025, 16 Jan 2025.
+Scale: 1,168 complaints match the filters; 0% of them share their text with another complaint, and the largest group was filed 3 times.","Scale: 1,168 complaints match the filters; 0% of them share their text with another complaint, and the largest group was filed 3 times.",False,1.0,True,False,False
+7,2025-01-13,Online access issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Online access issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Online access issues","What customers report: Customers reported unauthorized access to their accounts and financial fraud via Cash App. [3]  
+Who: Block, Inc.  
+When: 15 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.16666666666666666,True,False,False
+8,2025-01-13,Online access issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Online access issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Online access issues","What customers report: Customers reported issues with online access and unauthorized transactions. [2] and [4] mention problems with unauthorized access to their bank accounts.  
+Who: BANK OF AMERICA, NATIONAL ASSOCIATION and CITIBANK, N.A.  
+When: 17 Jan 2025 and 19 Jan 2025  
+Scale: 1 time each.",,False,1.0,True,False,False
+9,2025-01-13,Lack of communication clarity,CAPITAL ONE FINANCIAL CORPORATION,v2 with filters,What were customers complaining about under the topic 'Lack of communication clarity' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Lack of communication clarity","What customers report: Customers reported issues with Capital One failing to deposit direct deposits and providing unclear explanations for delays, as mentioned in [1] and [3].  
+Who: CAPITAL ONE FINANCIAL CORPORATION.  
+When: 17 Jan 2025, 18 Jan 2025.
+Scale: 280 complaints match the filters; 17% of them share their text with another complaint, and the largest group was filed 36 times.","Scale: 280 complaints match the filters; 17% of them share their text with another complaint, and the largest group was filed 36 times.",True,1.0,True,False,False
+10,2025-01-13,Lack of communication clarity,CAPITAL ONE FINANCIAL CORPORATION,v2 no filters,What were customers complaining about under the topic 'Lack of communication clarity' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Lack of communication clarity","What customers report: customers reported issues with lack of communication clarity, including [2], [4], and [6].  
+Who: CAPITAL ONE FINANCIAL CORPORATION, JPMORGAN CHASE & CO., PNC Bank N.A.  
+When: 26 Feb 2025, 05 Mar 2025, 19 Aug 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.0,True,False,False
+11,2025-01-13,Lack of communication clarity,CAPITAL ONE FINANCIAL CORPORATION,v1 with filters,What were customers complaining about under the topic 'Lack of communication clarity' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Lack of communication clarity","What customers report: customers are complaining about lack of communication clarity regarding direct deposit issues with Capital One. [1], [2], [3], [5], [6]  
+Who: CAPITAL ONE FINANCIAL CORPORATION  
+When: 17 Jan 2025, 18 Jan 2025  
+Scale: 5 times",,True,1.0,True,False,False
+12,2025-01-13,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with Zelle handling disputes and failing to investigate claims, leading to loss of funds and vulnerability to scams, as reported in [1], [2], [4], and [6].  
+Who: Early Warning Services, LLC, WELLS FARGO & COMPANY, BANK OF AMERICA, NATIONAL ASSOCIATION.  
+When: 15 Jan 2025.
+Scale: 3,625 complaints match the filters; 88% of them share their text with another complaint, and the largest group was filed 2,987 times.","Scale: 3,625 complaints match the filters; 88% of them share their text with another complaint, and the largest group was filed 2,987 times.",True,1.0,True,False,False
+13,2025-01-13,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Transaction failure issues","What customers report: Customers reported issues with dispute handling and transaction discrepancies, particularly concerning Zelle's failure to investigate claims and recover lost funds, as mentioned in [1], [5], and [6].  
+Who: Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, PNC Bank N.A.  
+When: 15 Jan 2025, 16 Jan 2025, 21 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.3333333333333333,True,False,False
+14,2025-01-13,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Transaction failure issues","What customers report: customers complained about issues with Zelle's handling of disputes and transaction discrepancies, as mentioned in [1], [3], and [4].  
+Who: Early Warning Services, LLC, WELLS FARGO & COMPANY, BANK OF AMERICA, NATIONAL ASSOCIATION.  
+When: 15 Jan 2025, 16 Jan 2025.  
+Scale: the main texts were filed 1 time, 1 time, and 2987 times respectively.",,True,1.0,True,False,False
+15,2025-01-13,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Late payment fees","What customers report: customers are complaining about late payment fees and overdraft fees due to delayed posting of charges and credits, [1], [2].  
+Who: Navy Federal Credit Union, Ally Financial Inc., Capital One Financial Corporation, Barclays Bank Delaware.  
+When: 15 Jan 2025, 16 Jan 2025, 18 Jan 2025, 19 Jan 2025.
+Scale: 1,353 complaints match the filters; 75% of them share their text with another complaint, and the largest group was filed 951 times.","Scale: 1,353 complaints match the filters; 75% of them share their text with another complaint, and the largest group was filed 951 times.",True,1.0,True,False,False
+16,2025-01-13,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 no filters,What were customers complaining about under the topic 'Late payment fees' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Late payment fees","What customers report: Customers complain about excessive late payment fees and confusing fee reversal processes. [1], [3], [4]  
+Who: TD Bank US Holding Company, Goldman Sachs Bank USA, CLGF Holdco 1, LLC  
+When: 31 Jan 2025, 25 Jun 2025, 14 Apr 2025
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+17,2025-01-13,Late payment fees,NAVY FEDERAL CREDIT UNION,v1 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, topic Late payment fees","What customers report: Customers reported late payment fees due to issues with payment processing, including late fees charged despite payments being scheduled for the due date or processed on time. [1], [3], [5], [6]  
+Who: Ally Financial Inc., Capital One Financial Corporation, Barclays Bank Delaware, Bread Financial Holdings, Inc.  
+When: 15 Jan 2025, 16 Jan 2025, 18 Jan 2025  
+Scale: The main texts were filed 1 time each.",,False,1.0,True,False,False
+18,2025-01-20,Credit reporting violation,"Block, Inc.",v2 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Credit reporting violation","What customers report: customers are complaining about violations of the Fair Credit Reporting Act (FCRA), including inaccurate credit reporting, failure to investigate disputes, and unauthorized disclosure of personal information.  
+Who: Sezzle Inc., Carvana Group, LLC, Mercedes Benz Financial Services, SYNCHRONY FINANCIAL.  
+When: 20 Jan 2025.
+Scale: 1,820 complaints match the filters; 94% of them share their text with another complaint, and the largest group was filed 1,693 times.","Scale: 1,820 complaints match the filters; 94% of them share their text with another complaint, and the largest group was filed 1,693 times.",False,1.0,True,False,False
+19,2025-01-20,Credit reporting violation,"Block, Inc.",v2 no filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Credit reporting violation","What customers report: customers are complaining about credit reporting violations, including inaccurate and unverifiable information being reported, failure to notify consumers of debt reporting, and failure to conduct proper investigations.  
+Who: Discover Bank, Synchro Financial, CitiBank, N.A., Equifax, Inc., Santander Holdings USA, Inc., Exeter Finance, LLC.  
+When: 02 Jun 2025, 04 Nov 2025, 09 May 2025, 04 Nov 2025, 27 Oct 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+20,2025-01-20,Credit reporting violation,"Block, Inc.",v1 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Credit reporting violation","What customers report: customers are complaining about violations of the Fair Credit Reporting Act (FCRA), including inaccurate reporting of late payments, unauthorized access to personal information, failure to investigate credit report disputes, and improper extension of negative reporting periods.  
+Who: AmeriHome Mortgage Company, LLC, Sezzle Inc., Carvana Group, LLC, Mercedes Benz Financial Services, SYNCHRONY FINANCIAL, National Enterprise Systems, Inc.  
+When: 20 Jan 2025 to 25 Jan 2025.  
+Scale: the main texts were filed 1 time each.",,False,1.0,True,False,False
+21,2025-01-20,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with Zelle's handling of disputes and transaction tracking, particularly in light of the CFPB lawsuit. [1], [3], [5], [6]  
+Who: Early Warning Services, LLC, BANK OF AMERICA, NATIONAL ASSOCIATION, CAPITAL ONE FINANCIAL CORPORATION  
+When: 20 Jan 2025, 21 Jan 2025, 22 Jan 2025
+Scale: 659 complaints match the filters; 86% of them share their text with another complaint, and the largest group was filed 512 times.","Scale: 659 complaints match the filters; 86% of them share their text with another complaint, and the largest group was filed 512 times.",True,1.0,True,False,False
+22,2025-01-20,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with dispute handling and transaction discrepancies, particularly related to Zelle and other financial institutions failing to investigate claims and recover lost funds.  
+Who: Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, PNC Bank N.A.  
+When: 15 Jan 2025, 22 Jan 2025, 21 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.3333333333333333,True,False,False
+23,2025-01-20,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Transaction failure issues","What customers report: customers complained about issues with Zelle handling disputes, particularly in light of the CFPB lawsuit, citing [1], [3], [6].  
+Who: Early Warning Services, LLC, Zelle.  
+When: 21 Jan 2025, 22 Jan 2025, 24 Jan 2025.  
+Scale: the main texts were filed 1 time each.",,True,1.0,True,False,False
+24,2025-01-20,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Late payment fees","What customers report: customers are complaining about being charged late fees for payments that were made on time, with some alleging that the fees were unjustified or imposed unfairly. [1], [2], [5]  
+Who: Navy Federal Credit Union, Comenity Bank, Bread Financial Holdings, Inc.  
+When: 20 Jan 2025
+Scale: 625 complaints match the filters; 74% of them share their text with another complaint, and the largest group was filed 360 times.","Scale: 625 complaints match the filters; 74% of them share their text with another complaint, and the largest group was filed 360 times.",True,1.0,True,False,False
+25,2025-01-20,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 no filters,What were customers complaining about under the topic 'Late payment fees' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Late payment fees","What customers report: Customers complain about excessive late payment fees and confusing fee reversal processes. [1], [3], [4]  
+Who: TD Bank US Holding Company, Goldman Sachs Bank USA, CLGF Holdco 1, LLC  
+When: 31 Jan 2025, 27 Dec 2025, 14 Apr 2025
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+26,2025-01-20,Late payment fees,NAVY FEDERAL CREDIT UNION,v1 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 20 January 2025?,"dates 20 Jan 2025 to 26 Jan 2025, topic Late payment fees","What customers report: customers are complaining about late payment fees imposed by credit card companies, including [1], [3], and [6].  
+Who: Bread Financial Holdings, Inc., Comenity Bank, CAPITAL ONE FINANCIAL CORPORATION, HSBC NORTH AMERICA HOLDINGS INC.  
+When: 22 Jan 2025, 23 Jan 2025, 22 Jan 2025  
+Scale: 1, 1, 1.",,False,1.0,True,False,False
+27,2025-01-27,Credit reporting violation,"Block, Inc.",v2 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Credit reporting violation","What customers report: complaints about credit reporting violations, including inaccurate credit reporting, failure to provide debt validation, and unauthorized access to credit information.  
+Who: American Express Company, Experian Information Solutions Inc., Barclays Bank Delaware, Resurgent Capital Services L.P.  
+When: 27 Jan 2025, 29 Jan 2025.
+Scale: 466 complaints match the filters; 87% of them share their text with another complaint, and the largest group was filed 398 times.","Scale: 466 complaints match the filters; 87% of them share their text with another complaint, and the largest group was filed 398 times.",False,1.0,True,False,False
+28,2025-01-27,Credit reporting violation,"Block, Inc.",v2 no filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Credit reporting violation","What customers report: customers are complaining about credit reporting violations, including inaccurate and unverifiable information being reported, failure to notify consumers of debt reporting, and failure to conduct proper investigations.  
+Who: Discover Bank, Synchro Financial, CitiBank, N.A., Equifax, Inc., Santander Holdings USA, Inc., Exeter Finance, LLC.  
+When: 26 Jul 2025, 09 May 2025, 04 Nov 2025, 02 Jun 2025, 27 Oct 2025, 04 Nov 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+29,2025-01-27,Credit reporting violation,"Block, Inc.",v1 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Credit reporting violation","What customers report: customers are complaining about credit reporting violations, including inaccurate credit reporting, failure to provide debt validation, unauthorized access to credit information, and refusal to remove late payments from credit reports.  
+Who: Experian Information Solutions Inc., American Express Company, Barclays Bank Delaware, Westlake Services, LLC, Resurgent Capital Services L.P., HYUNDAI CAPITAL AMERICA.  
+When: 27 Jan 2025, 29 Jan 2025.  
+Scale: the main texts were filed 1 time each.",,False,1.0,True,False,False
+30,2025-01-27,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Transaction failure issues","What customers report: customers complain about issues with Zelle's dispute resolution process and the inability to recover lost funds, as highlighted in [1], [3], and [6].  
+Who: Early Warning Services, LLC.  
+When: 27 Jan 2025, 28 Jan 2025, and 31 Jan 2025.
+Scale: 115 complaints match the filters; 80% of them share their text with another complaint, and the largest group was filed 86 times.","Scale: 115 complaints match the filters; 80% of them share their text with another complaint, and the largest group was filed 86 times.",True,1.0,True,False,False
+31,2025-01-27,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Transaction failure issues","What customers report: Customers reported issues with dispute handling and transaction discrepancies, particularly in light of the CFPB lawsuit, with concerns about failed investigations and inability to recover lost funds.  
+Who: Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, PNC Bank N.A.  
+When: 15 Jan 2025, 22 Jan 2025, 21 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.0,True,False,False
+32,2025-01-27,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with transaction dispute resolution, particularly regarding the inability to recover lost funds and the failure to investigate discrepancies.  
+Who: Early Warning Services, LLC, Block, Inc., BANK OF AMERICA, NATIONAL ASSOCIATION.  
+When: 27 Jan 2025, 31 Jan 2025, 28 Jan 2025.  
+Scale: [4] filed 86 times, [1] filed 2 times, [3] filed 1 time, [6] filed 1 time.",,True,1.0,True,False,False
+33,2025-01-27,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Late payment fees","What customers report: customers are complaining about being charged late payment fees despite making payments on time, with some cases involving multiple fees and excessive charges. [4], [5], [6]  
+Who: Navy Federal Credit Union, TD Bank US Holding Company, BMO Bank National Association, Planet Home Lending, LLC, Equifax, Inc.  
+When: 27 Jan 2025, 28 Jan 2025, 31 Jan 2025.
+Scale: 297 complaints match the filters; 58% of them share their text with another complaint, and the largest group was filed 138 times.","Scale: 297 complaints match the filters; 58% of them share their text with another complaint, and the largest group was filed 138 times.",True,1.0,True,False,False
+34,2025-01-27,Late payment fees,NAVY FEDERAL CREDIT UNION,v2 no filters,What were customers complaining about under the topic 'Late payment fees' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Late payment fees","What customers report: Customers complain about excessive late payment fees and confusing fee reversal processes. [1], [3], [4]  
+Who: TD Bank US Holding Company, CLGF Holdco 1, LLC, Destiny Credit Card by Concora  
+When: 31 Jan 2025, 27 Dec 2025, 14 Apr 2025
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.16666666666666666,True,False,False
+35,2025-01-27,Late payment fees,NAVY FEDERAL CREDIT UNION,v1 with filters,What were customers complaining about under the topic 'Late payment fees' in the week of 27 January 2025?,"dates 27 Jan 2025 to 02 Feb 2025, topic Late payment fees","What customers report: customers are reporting issues with late payment fees for credit card payments made on or just before the due date. [1], [3], [6]  
+Who: TD BANK US HOLDING COMPANY, BMO BANK NATIONAL ASSOCIATION, CONTINENTAL FINANCE COMPANY, LLC  
+When: 27 Jan 2025, 28 Jan 2025, 31 Jan 2025  
+Scale: 1, 1, 1",,False,1.0,True,False,False
+36,2025-02-03,Credit reporting violation,"Block, Inc.",v2 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Credit reporting violation","What customers report: complaints about credit reporting violations, including inaccurate credit report entries and failure to investigate disputes.  
+Who: CITIBANK, N.A., SANTANDER HOLDINGS USA, INC., ALLY FINANCIAL INC., CAPITAL ONE FINANCIAL CORPORATION.  
+When: 03 Feb 2025.
+Scale: 329 complaints match the filters; 83% of them share their text with another complaint, and the largest group was filed 262 times.","Scale: 329 complaints match the filters; 83% of them share their text with another complaint, and the largest group was filed 262 times.",False,1.0,True,False,False
+37,2025-02-03,Credit reporting violation,"Block, Inc.",v2 no filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Credit reporting violation","What customers report: customers are complaining about credit reporting violations, including inaccurate information, failure to notify of debt reporting, and improper credit reporting.  
+Who: Discover Bank, Synchro Financial, CitiBank, N.A., Equifax, Inc., Santander Holdings USA, Inc., Exeter Finance, LLC.  
+When: 26 Jul 2025, 09 May 2025, 04 Nov 2025, 02 Jun 2025, 27 Oct 2025, 04 Nov 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,0.0,True,False,False
+38,2025-02-03,Credit reporting violation,"Block, Inc.",v1 with filters,What were customers complaining about under the topic 'Credit reporting violation' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Credit reporting violation","What customers report: customers are complaining about violations of the Fair Credit Reporting Act (FCRA), including failure to investigate disputes properly and inaccurate information on their credit reports.  
+Who: CITIBANK, N.A.  
+When: 03 Feb 2025  
+Scale: 1 time",,False,1.0,True,False,False
+39,2025-02-03,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with Zelle handling disputes and failing to recover lost funds, as mentioned in [1] and [3].  
+Who: Early Warning Services, LLC.  
+When: 03 Feb 2025.
+Scale: 94 complaints match the filters; 88% of them share their text with another complaint, and the largest group was filed 77 times.","Scale: 94 complaints match the filters; 88% of them share their text with another complaint, and the largest group was filed 77 times.",True,1.0,True,False,False
+40,2025-02-03,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Transaction failure issues","What customers report: Customers reported issues with dispute handling and transaction discrepancies, particularly concerning Zelle's failure to investigate claims and recover lost funds, as mentioned in [1], [5], and [6].  
+Who: Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, NAVY FEDERAL CREDIT UNION, PNC Bank N.A.  
+When: 15 Jan 2025, 16 Jan 2025, 06 Oct 2025, 21 Jan 2025, 05 Mar 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.0,True,False,False
+41,2025-02-03,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 03 February 2025?,"dates 03 Feb 2025 to 09 Feb 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with money transfers, specifically disputes and failures in processing funds. [1], [3], [5]  
+Who: Early Warning Services, LLC, Block, Inc.  
+When: 04 Feb 2025, 05 Feb 2025, 06 Feb 2025, 08 Feb 2025, 09 Feb 2025  
+Scale: 77, 1, 1, 1, 1",,True,1.0,True,False,False
+42,2025-02-10,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 10 February 2025?,"dates 10 Feb 2025 to 16 Feb 2025, topic Transaction failure issues","What customers report: Customers reported issues with Zelle's handling of transaction disputes, particularly in light of the CFPB lawsuit, citing repeated failures to investigate claims and recover lost funds.  
+Who: Early Warning Services, LLC, PNC Bank N.A.  
+When: 10 Feb 2025, 11 Feb 2025.
+Scale: 145 complaints match the filters; 84% of them share their text with another complaint, and the largest group was filed 115 times.","Scale: 145 complaints match the filters; 84% of them share their text with another complaint, and the largest group was filed 115 times.",True,1.0,True,False,False
+43,2025-02-10,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 10 February 2025?,"dates 10 Feb 2025 to 16 Feb 2025, topic Transaction failure issues","What customers report: Customers reported issues with dispute handling and transaction discrepancies, particularly concerning Zelle's failure to investigate claims and recover lost funds, as noted in [1], [5], and [6].  
+Who: Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, NAVY FEDERAL CREDIT UNION, PNC Bank N.A.  
+When: 15 Jan 2025, 16 Jan 2025, 06 Oct 2025, 21 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.0,True,False,False
+44,2025-02-10,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 10 February 2025?,"dates 10 Feb 2025 to 16 Feb 2025, topic Transaction failure issues","What customers report: customers complained about issues with Zelle's handling of transaction disputes, particularly in light of the CFPB lawsuit, citing [1], [3], [5], and [6].  
+Who: Zelle and PNC Bank N.A.  
+When: 10 Feb 2025  
+Scale: 5 times for PNC Bank N.A. and 1 time for Zelle.",,True,1.0,True,False,False
+45,2025-02-24,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 24 February 2025?,"dates 24 Feb 2025 to 02 Mar 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with Zelle and Cash App handling disputes and failing to recover lost funds, as mentioned in [1], [4], and [5].  
+Who: Early Warning Services, LLC, Block, Inc.  
+When: 24 Feb 2025, 25 Feb 2025.
+Scale: 74 complaints match the filters; 84% of them share their text with another complaint, and the largest group was filed 62 times.","Scale: 74 complaints match the filters; 84% of them share their text with another complaint, and the largest group was filed 62 times.",True,1.0,True,False,False
+46,2025-02-24,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 24 February 2025?,"dates 24 Feb 2025 to 02 Mar 2025, topic Transaction failure issues","What customers report: Customers reported issues with transaction handling and dispute resolution, particularly concerning the inability to recover lost funds and track transactions.  
+Who: Chime Financial Inc, Early Warning Services, LLC, CAPITAL ONE FINANCIAL CORPORATION, NAVY FEDERAL CREDIT UNION, PNC Bank N.A.  
+When: 06 Oct 2025, 15 Jan 2025, 22 Jan 2025, 05 Mar 2025, 21 Jan 2025, 16 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.0,True,False,False
+47,2025-02-24,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 24 February 2025?,"dates 24 Feb 2025 to 02 Mar 2025, topic Transaction failure issues","What customers report: customers complained about issues with Zelle and Cash App handling disputes, particularly in light of the CFPB lawsuit, with problems recovering lost funds and tracking transactions.  
+Who: Early Warning Services, LLC, Block, Inc., BANK OF AMERICA, NATIONAL ASSOCIATION, CAPITAL ONE FINANCIAL CORPORATION  
+When: 25 Feb 2025, 26 Feb 2025, 27 Feb 2025, 28 Feb 2025  
+Scale: [1], [1], [1], [62]",,True,1.0,True,False,False
+48,2025-10-06,Transaction failure issues,"Early Warning Services, LLC",v2 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 06 October 2025?,"dates 06 Oct 2025 to 12 Oct 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with money transfer dispute resolution, particularly regarding the inability to recover lost funds and the lack of investigation by both the financial institution and the service provider. [1], [2], [3], [5], [6]  
+Who: Early Warning Services, LLC, Chime Financial Inc, Capital One Financial Corporation  
+When: 06 Oct 2025
+Scale: 273 complaints match the filters; 85% of them share their text with another complaint, and the largest group was filed 134 times.","Scale: 273 complaints match the filters; 85% of them share their text with another complaint, and the largest group was filed 134 times.",True,1.0,True,False,False
+49,2025-10-06,Transaction failure issues,"Early Warning Services, LLC",v2 no filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 06 October 2025?,"dates 06 Oct 2025 to 12 Oct 2025, topic Transaction failure issues","What customers report: customers complained about issues with Zelle's dispute resolution and handling of transaction discrepancies, citing [6].  
+Who: Early Warning Services, LLC.  
+When: 06 Oct 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,0.16666666666666666,True,False,False
+50,2025-10-06,Transaction failure issues,"Early Warning Services, LLC",v1 with filters,What were customers complaining about under the topic 'Transaction failure issues' in the week of 06 October 2025?,"dates 06 Oct 2025 to 12 Oct 2025, topic Transaction failure issues","What customers report: customers are complaining about issues with transaction disputes and fund recovery, citing [1], [2], [4], [5], and [6].  
+Who: Chime Financial Inc, Early Warning Services, LLC, Bank of America, National Association, and CAPITAL ONE Financial Corporation.  
+When: 06 Oct 2025.  
+Scale: the main texts were filed 81 times, 15 times, 1 time, 1 time, and 1 time respectively.",,True,1.0,True,False,False

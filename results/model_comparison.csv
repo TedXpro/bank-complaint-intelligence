@@ -1,0 +1,8 @@
+,stage,our model,measured on,our result (95% interval),compared with
+0,Find campaigns,"Sentence embeddings + FAISS, confirmed by shared wording","All 60,000 complaints; 20 pairs read by a person","16,392 copies found; 19 of 20 pairs confirmed","Exact matching (Assignment 1): 10,906 copies"
+1,Route,Word2Vec + logistic regression,"8,722 test complaints",Accuracy 82% (81%–83%),Keyword rules 72% (71%–73%); Word2Vec + taxonomy 70%; GPT-4o-mini 73% (on 300)
+2,Prioritise,"Word2Vec text + product, logistic regression","8,722 test complaints (894 payouts)",Payouts caught in the riskiest 20%: 57% (53%–60%),Product only 34% (31%–37%); random review 20%
+3,Watch,"LDA, single words, 10 topics","8,722 test complaints",Coherence 0.51; agreement with CFPB issues (NMI) 0.24,"Untuned LDA: coherence 0.48, NMI 0.22; random topics NMI 0.01"
+4,Explain: search,FAISS + routed-team filter,400 test complaints,Precision@5 0.40 (0.37–0.44),BM25 0.36 (0.32–0.39); Word2Vec vectors 0.39; random 0.19
+5,Explain: agent,"Qwen3-4B, prompt v2",16 test and 8 held-out questions,Checks passed: 97%; held-out 100%,Prompt v1: 84%; held-out 88%
+6,Explain: briefs,"Qwen3-4B, brief v2 with the agent's filters",17 alarms,Company named 76%; faithfulness 0.98,"Brief v1: 53%, 0.93; no filters: 53%"

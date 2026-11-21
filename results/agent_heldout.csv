@@ -1,0 +1,129 @@
+,prompt,question,text,valid JSON,search or not,product,company,dates,topic,reply
+0,v1,0,Good morning!,True,False,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Good morning!"",
+  ""date_from"": null,
+  ""date_to"": null,
+  ""product"": null,
+  ""company"": null,
+  ""topic"": null
+}"
+1,v1,1,What did Chase customers complain about in February?,True,True,True,True,False,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Chase customer complaints February"",
+  ""date_from"": ""2023-02-01"",
+  ""date_to"": ""2023-02-28"",
+  ""product"": ""Chase Bank"",
+  ""company"": ""Chase"",
+  ""topic"": ""Customer complaints""
+}"
+2,v1,2,Were there mortgage complaints about escrow in the week of 8 September?,True,True,True,True,False,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""mortgage complaints escrow 8 September"",
+  ""date_from"": ""2023-09-04"",
+  ""date_to"": ""2023-09-10"",
+  ""product"": ""mortgage"",
+  ""company"": null,
+  ""topic"": ""escrow""
+}"
+3,v1,3,What did Citibank credit card customers report in July?,True,True,True,True,False,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Citibank credit card customers July complaints"",
+  ""date_from"": ""2023-07-01"",
+  ""date_to"": ""2023-07-31"",
+  ""product"": ""Credit Card"",
+  ""company"": ""Citibank"",
+  ""topic"": ""Customer Complaints""
+}"
+4,v1,4,What are Synchrony customers unhappy about?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Synchrony customer complaints"",
+  ""date_from"": null,
+  ""date_to"": null,
+  ""product"": null,
+  ""company"": ""Synchrony"",
+  ""topic"": ""Customer dissatisfaction""
+}"
+5,v1,5,Which vehicle loan complaints came in during December?,True,True,True,True,False,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""vehicle loan complaints"",
+  ""date_from"": ""2023-12-01"",
+  ""date_to"": ""2023-12-31"",
+  ""product"": ""vehicle loan"",
+  ""company"": null,
+  ""topic"": null
+}"
+6,v1,6,What were customers saying about online access issues in May?,True,True,True,True,False,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""online access issues"",
+  ""date_from"": ""2023-05-01"",
+  ""date_to"": ""2023-05-31"",
+  ""product"": null,
+  ""company"": null,
+  ""topic"": ""online access issues""
+}"
+7,v1,7,What did Capital One customers report in 2024?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Capital One customers 2024 complaints"",
+  ""date_from"": ""2024-01-01"",
+  ""date_to"": ""2024-12-31"",
+  ""product"": ""null"",
+  ""company"": ""Capital One"",
+  ""topic"": ""null""
+}"
+8,v2,0,Good morning!,True,True,True,True,True,True,"{""retrieve"": false, ""search_query"": """", ""date_from"": null, ""date_to"": null, ""product"": null, ""company"": null, ""topic"": null}"
+9,v2,1,What did Chase customers complain about in February?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Chase customer complaints"",
+  ""date_from"": ""2025-02-01"",
+  ""date_to"": ""2025-02-28"",
+  ""product"": null,
+  ""company"": ""Chase"",
+  ""topic"": null
+}"
+10,v2,2,Were there mortgage complaints about escrow in the week of 8 September?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""escrow complaints"",
+  ""date_from"": ""2025-09-08"",
+  ""date_to"": ""2025-09-14"",
+  ""product"": ""Mortgage"",
+  ""company"": null,
+  ""topic"": null
+}"
+11,v2,3,What did Citibank credit card customers report in July?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Citibank credit card complaints"",
+  ""date_from"": ""2025-07-01"",
+  ""date_to"": ""2025-07-31"",
+  ""product"": ""Credit card"",
+  ""company"": ""Citibank"",
+  ""topic"": null
+}"
+12,v2,4,What are Synchrony customers unhappy about?,True,True,True,True,True,True,"{""retrieve"": true, ""search_query"": ""customer dissatisfaction"", ""date_from"": null, ""date_to"": null, ""product"": null, ""company"": ""Synchrony"", ""topic"": null}"
+13,v2,5,Which vehicle loan complaints came in during December?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""vehicle loan complaints"",
+  ""date_from"": ""2025-12-01"",
+  ""date_to"": ""2025-12-31"",
+  ""product"": ""Vehicle loan"",
+  ""company"": null,
+  ""topic"": null
+}"
+14,v2,6,What were customers saying about online access issues in May?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""online access issues"",
+  ""date_from"": ""2025-05-01"",
+  ""date_to"": ""2025-05-31"",
+  ""product"": null,
+  ""company"": null,
+  ""topic"": ""Online access issues""
+}"
+15,v2,7,What did Capital One customers report in 2024?,True,True,True,True,True,True,"{
+  ""retrieve"": true,
+  ""search_query"": ""Capital One customer reports"",
+  ""date_from"": ""2024-01-01"",
+  ""date_to"": ""2024-12-31"",
+  ""product"": null,
+  ""company"": ""Capital One"",
+  ""topic"": null
+}"

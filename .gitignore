@@ -1,0 +1,10 @@
+.venv/
+.env
+__pycache__/
+*.pyc
+*.egg-info/
+.ipynb_checkpoints/
+data/raw/
+data/*.csv
+figures.zip
+~$*

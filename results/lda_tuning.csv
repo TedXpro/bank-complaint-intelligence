@@ -1,0 +1,5 @@
+,setting,texts,no_above,topics,coherence,agreement with CFPB issues (NMI)
+0,"Single words, 10 topics, max share 0.2",single,0.2,10,0.4601885698494965,0.19954367831035255
+1,"Single words, 10 topics, max share 0.4",single,0.4,10,0.5202904211991599,0.24744354293368467
+2,"Single words, 10 topics, max share 0.7",single,0.7,10,0.5033528111558285,0.23122441866500756
+3,"Untuned: standard stop words only, no filtering, 10 topics",raw,1.0,10,0.46581449074258263,0.20913173377467126

@@ -1,0 +1,9 @@
+,training,validation,test
+complaints,"30,525","4,361","8,722"
+share of unique complaints,70%,10%,20%
+Checking/savings,33.1%,33.1%,33.1%
+Credit card,29.0%,29.0%,28.9%
+Money transfer,18.8%,18.8%,18.8%
+Mortgage,10.4%,10.4%,10.4%
+Vehicle loan,8.7%,8.7%,8.7%
+payout rate,10.2%,10.2%,10.2%

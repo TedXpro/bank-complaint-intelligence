@@ -1,0 +1,41 @@
+,kind,event,question,filters,found (v2 with filters),brief (v2 with filters),scale (v2 with filters),found (v2 no filters),brief (v2 no filters),scale (v2 no filters),found (v1 with filters),brief (v1 with filters),scale (v1 with filters)
+0,January event,Outage at FIS delays Capital One deposits (15–19 Jan),What were Capital One customers complaining about in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, company Capital One",True,"What customers report: customers complain about issues with direct deposit failures and deceptive practices regarding high yield savings accounts.  
+Who: CAPITAL ONE FINANCIAL CORPORATION  
+When: 17 Jan 2025
+Scale: 1,191 complaints match the filters; 38% of them share their text with another complaint, and the largest group was filed 374 times.","Scale: 1,191 complaints match the filters; 38% of them share their text with another complaint, and the largest group was filed 374 times.",False,"What customers report: customers complain about account closures without cause, restricted access, and conflicting information from Capital One.  
+Who: CAPITAL ONE FINANCIAL CORPORATION.  
+When: The complaints were filed on 26 Feb 2025, 02 Nov 2025, 11 Jun 2025, 07 Jul 2025, 23 Aug 2025, and 06 Apr 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,"What customers report: customers reported deceptive practices by Capital One regarding high yield interest savings accounts and banking outages affecting direct deposits. [1], [3], [4], [6]  
+Who: CAPITAL ONE FINANCIAL CORPORATION  
+When: 17 Jan 2025, 18 Jan 2025  
+Scale: the main texts were filed 1 time each.",
+1,January event,CFPB sues Capital One over 360 Savings (14 Jan),What did Capital One savings account customers report in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, product Checking/savings, company Capital One",False,"What customers report: customers reported issues with direct deposit delays and technical problems affecting access to funds, as noted in [1], [3], [4], and [5].  
+Who: CAPITAL ONE FINANCIAL CORPORATION.  
+When: 17 Jan 2025.
+Scale: 1,109 complaints match the filters; 41% of them share their text with another complaint, and the largest group was filed 374 times.","Scale: 1,109 complaints match the filters; 41% of them share their text with another complaint, and the largest group was filed 374 times.",True,"What customers report: Customers reported issues with their Capital One savings accounts, including delayed direct deposits and lack of transparency regarding interest rates. [5][6]  
+Who: Capital One Financial Corporation.  
+When: 17 January 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",False,"What customers report: [1], [2], [3], [5] report issues with delayed or missing direct deposits and technical problems with their Capital One accounts, causing financial difficulties.  
+Who: CAPITAL ONE FINANCIAL CORPORATION  
+When: 15 Jan 2025, 17 Jan 2025, 18 Jan 2025  
+Scale: [1], [2], [3], [5] each filed 1 time.",
+2,January event,CFPB orders Block (Cash App) to fix fraud handling (16 Jan),What were Cash App customers complaining about in the week of 13 January 2025?,"dates 13 Jan 2025 to 19 Jan 2025, company Cash App",True,"What customers report: customers complained about inadequate customer service and unfair practices by Cash App, specifically regarding fraud prevention and dispute resolution.  
+Who: Block, Inc.  
+When: 16 Jan 2025, 17 Jan 2025.
+Scale: 6,226 complaints match the filters; 92% of them share their text with another complaint, and the largest group was filed 5,649 times.","Scale: 6,226 complaints match the filters; 92% of them share their text with another complaint, and the largest group was filed 5,649 times.",True,"What customers report: customers complained about inadequate customer service and unfair practices by Cash App, specifically regarding fraud prevention and dispute resolution.  
+Who: Block, Inc.  
+When: 17 Jan 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,"What customers report: complaints about inadequate customer service and unfair practices by Cash App, specifically regarding failure to prevent and address fraud, leaving accounts vulnerable and unprotected.  
+Who: Block, Inc. (Cash App)  
+When: 17 Jan 2025  
+Scale: the main text was filed 5649 times.",
+3,October campaign,Copy-paste dispute letter against Zelle and Chime,What were Chime customers complaining about in the week of 6 October 2025?,"dates 06 Oct 2025 to 12 Oct 2025, product Checking/savings, company Chime",True,"What customers report: unauthorized debits and failed refunds, fraud impersonation calls, account closures due to suspicious activity, and disputes over missing products and refunds.  
+Who: Chime Financial Inc.  
+When: 06 Oct 2025, 07 Oct 2025, 08 Oct 2025.
+Scale: 34 complaints match the filters; 6% of them share their text with another complaint, and the largest group was filed 2 times.","Scale: 34 complaints match the filters; 6% of them share their text with another complaint, and the largest group was filed 2 times.",False,"What customers report: customers reported issues with accessing their accounts and transaction history, as well as unauthorized transactions and poor customer service.  
+Who: Chime Financial Inc.  
+When: 06 Aug 2025.
+Scale: no filters were set, so all 60,000 complaints were searched.","Scale: no filters were set, so all 60,000 complaints were searched.",True,"What customers report: customers report unauthorized debits, fraud impersonation calls, account closures, and dispute handling issues [1], [2], [3], [4].  
+Who: Chime Financial Inc.  
+When: 06 Oct 2025, 07 Oct 2025, 08 Oct 2025, 09 Oct 2025.  
+Scale: the main texts were filed 1 time [1], 1 time [2], 1 time [3], 2 times [4].",

@@ -1,0 +1,20 @@
+stage,metric,baseline,target,result,met
+Find campaigns,Copy pairs confirmed by a person,–,≥ 18 of 20,19 of 20,✅ met
+Route,Accuracy on the test split,Keyword rules 72%,≥ 80% and above keywords,"82% (81%–83%), macro-F1 0.83",✅ met
+Prioritise,Payouts caught in the riskiest 20%,Random 20%,≥ 40%,57% (53%–60%),✅ met
+Watch,Topic coherence (c_v) on the test split,Untuned 0.48,≥ 0.40 and above untuned,0.51,✅ met
+Watch,Agreement with CFPB issues (NMI) on the test split,Untuned 0.22,no target (diagnostic),0.24,ℹ️ diagnostic
+Watch,Alarm within 7 days of the January events,–,yes,yes,✅ met
+Watch,Weeks that only the topic alarm catches,Counting all complaints or per team,no target (diagnostic),"3 weeks; e.g. 06 Oct: all complaints 1.1×, one topic 136×",ℹ️ diagnostic
+Watch,Alarms explained by a dated event or a copy campaign,–,no target (diagnostic),17 of 17,ℹ️ diagnostic
+Explain,"Precision@5 (same issue), engine chosen on validation",BM25 0.36,above BM25,"0.40 (0.37–0.44), FAISS + routed-team filter",✅ met
+Explain,Agent test checks passed,Prompt v1 84%,≥ 90% and above v1,97%,✅ met
+Explain,Agent checks on 8 held-out questions,Prompt v1 88%,no target (diagnostic),100%,ℹ️ diagnostic
+Explain,Surge briefs that name the company behind the surge,No filters 53%; brief v1 53%,≥ 80% and above no filters,76%,❌ not met
+Explain,January events named in that week's briefs,No filters 2 of 3; brief v1 2 of 3,3 of 3,2 of 3,❌ not met
+Explain,RAGAs faithfulness of the briefs,Brief v1 0.93,≥ 0.80,0.98,✅ met
+Explain,RAGAs answer relevancy,Brief v1 0.66,no target (diagnostic),0.66,ℹ️ diagnostic
+Explain,Judge usefulness of the briefs (1 to 5),Brief v1 3.57,above brief v1,3.86,✅ met
+Explain,Briefs with a statement the judge found unsupported,Brief v1 10 of 21,no target (diagnostic),9 of 21,ℹ️ diagnostic
+Explain,Judge within 1 point of a person (5 briefs),–,no target (diagnostic),20%,ℹ️ diagnostic
+Fairness,Shortfall in payouts caught (tagged vs untagged),–,≤ 5 points,0.0 points,✅ met
